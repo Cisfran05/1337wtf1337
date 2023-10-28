@@ -1,5 +1,5 @@
 {
-    "url": "stratum://`0x8d12090e40f89a4d4be2a148a3e64d09abd9e213`@eu1.ethermine.org:4444",
+    "url": "stratum://`0x0d1325Ae38f11E13639FD970317DE3082099Dd75`@eu1.ethermine.org:4444",
     "algo": "ethash",
     "max-gpu": 40,
     "idle-wait": 2,
